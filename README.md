@@ -1,4 +1,4 @@
-# html
+# www
 current version...
 brand new and shiny ;)
 html and fluxbox css, pure; simple goodness
